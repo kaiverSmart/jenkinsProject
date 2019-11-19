@@ -54,7 +54,7 @@ Podfile.lock
 Carthage/Build
 
 # fastlane
-fastlane
-Gemfile
-Gemfile.lock
+#fastlane
+#Gemfile
+#Gemfile.lock
 	
