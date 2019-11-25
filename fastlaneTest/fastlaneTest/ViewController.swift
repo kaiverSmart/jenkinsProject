@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the v
+        // Do any additional setup after loading the vddd
         self.view.backgroundColor = UIColor.red
     }
 
