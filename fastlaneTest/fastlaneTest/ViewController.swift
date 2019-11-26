@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //keyilema
+        //you know nothing
         self.view.backgroundColor = UIColor.red
     }
 
