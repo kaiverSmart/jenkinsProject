@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //you know nothing bbb
+        //you know nothing bbb remote
         self.view.backgroundColor = UIColor.red
     }
 
