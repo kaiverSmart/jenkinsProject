@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the  remote push
-        //代码已经同步
+        //代码已经同步 辅导费
         self.view.backgroundColor = UIColor.red
     }
 
